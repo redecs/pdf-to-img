@@ -1,0 +1,4 @@
+/pdfs/*
+!/pdfs/.keep
+/imgs/*
+!/imgs/.keep
